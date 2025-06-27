@@ -15,6 +15,5 @@ Complete Case Analysis (also known as **listwise deletion**) is a method in data
 - Python
 - pandas
 - numpy
-- seaborn
 - matplotlib
 
